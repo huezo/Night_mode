@@ -4,14 +4,14 @@
 
 
 
-[td]:https://gitlab.com/huezo/Night_mode/raw/master/Night_mode.png
+[td]:https://raw.githubusercontent.com/huezo/Night_mode/master/Night_mode.png
 
 ![td][td]
 
 
 # Telegram Android 
 
-[demo]:https://gitlab.com/huezo/Night_mode/raw/master/TDMN.jpg
+[demo]:https://raw.githubusercontent.com/huezo/Night_mode/master/TDMN.jpg
 
 ![demo][demo]
 
@@ -21,20 +21,19 @@
 
 
 
-[ta]:https://gitlab.com/huezo/Night_mode/raw/master/Night_mode_a.png
-
+[ta]:https://raw.githubusercontent.com/huezo/Night_mode/master/Night_mode_a.png
 ![ta][ta]
 
 
 
 
-[ta1]:https://gitlab.com/huezo/Night_mode/raw/master/Night_mode_a1.png
+[ta1]:https://raw.githubusercontent.com/huezo/Night_mode/master/Night_mode_a1.png
 ![ta1][ta1]
 
 
 ## download
 
-# [download](https://gitlab.com/huezo/Night_mode/tree/master)
+# [download](https://github.com/huezo/Night_mode/releases)
 
 
 ## blog 
