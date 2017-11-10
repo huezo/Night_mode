@@ -37,13 +37,13 @@
 
 
 ## blog 
-# [https://huezohuezo1990.wordpress.com/](https://huezohuezo1990.wordpress.com/)
+### [https://huezohuezo1990.wordpress.com/](https://huezohuezo1990.wordpress.com/)
 
 
 
 # Mirror  gitlab 
 
-#### [https://gitlab.com/huezo/Night_mode](https://gitlab.com/huezo/Night_mode) 
+## [https://gitlab.com/huezo/Night_mode](https://gitlab.com/huezo/Night_mode) 
 
 
 
